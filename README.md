@@ -77,4 +77,10 @@ This project compares the performance of a **Simple RNN** and an **Advanced RNN 
 ---
 
 ## 📂 Project Structure
+- ReadMe.md
+- RNN_Stock_Price_Prediction_Shashidhar_Pattar.zip
+
+## **Author**
+  - [Shashidhar Pattar](https://github.com/shashidharpattar007)
+
 
